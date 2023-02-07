@@ -1,0 +1,23 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: isntall",
+      "code": "ENOENT",
+      "stack": "Error: not found: isntall\n    at getNotFoundError (C:\\Users\\luname\\AppData\\Roaming\\nvm\\v16.15.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41517:51)\n    at Function.whichSync [as sync] (C:\\Users\\luname\\AppData\\Roaming\\nvm\\v16.15.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41594:13)\n    at getCommandAbsolutePathSync (C:\\Users\\luname\\AppData\\Roaming\\nvm\\v16.15.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43159:44)\n    at default_1 (C:\\Users\\luname\\AppData\\Roaming\\nvm\\v16.15.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43168:32)\n    at C:\\Users\\luname\\AppData\\Roaming\\nvm\\v16.15.0\\node_modules\\pnpm\\dist\\pnpm.cjs:171981:39"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "D:\\project\\Community_Service_Platform_2.0",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: isntall",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: isntall\n    at getNotFoundError (C:\\Users\\luname\\AppData\\Roaming\\nvm\\v16.15.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41517:51)\n    at Function.whichSync [as sync] (C:\\Users\\luname\\AppData\\Roaming\\nvm\\v16.15.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41594:13)\n    at getCommandAbsolutePathSync (C:\\Users\\luname\\AppData\\Roaming\\nvm\\v16.15.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43159:44)\n    at default_1 (C:\\Users\\luname\\AppData\\Roaming\\nvm\\v16.15.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43168:32)\n    at C:\\Users\\luname\\AppData\\Roaming\\nvm\\v16.15.0\\node_modules\\pnpm\\dist\\pnpm.cjs:171981:39"
+    }
+  }
+}
